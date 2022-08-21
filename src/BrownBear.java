@@ -73,5 +73,5 @@ else if(direction == west) {
 else {
 	System.out.println("1 for North, 2 for East, 3 for South, 4 for West");
 }
-}//end walk
+}//end swim
 }
