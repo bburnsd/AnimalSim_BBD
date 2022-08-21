@@ -74,10 +74,4 @@ else {
 	System.out.println("1 for North, 2 for East, 3 for South, 4 for West");
 }
 }//end walk
-
-public void fly(Location l) {
-	System.out.println("Bear can't fly");
-}
-
-
 }
